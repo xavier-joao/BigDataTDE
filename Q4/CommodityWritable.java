@@ -11,13 +11,12 @@ import java.util.Objects;
 public class CommodityWritable implements Writable {
     private int n;
     private float CommodityValue;
-    private String CommodityName;
 
 
     //definir contrutor vazio
     public CommodityWritable(){
-
     }
+
     //definir contrutor atributos
     public CommodityWritable(int n, float CommodityValue){
         this.CommodityValue = CommodityValue;

@@ -10,9 +10,9 @@ public class GroupByCommodityYear implements WritableComparable<GroupByCommodity
     public String year;
     public String commodityName;
 
-    public GroupByCommodityYear(String year, String flowType) {
+    public GroupByCommodityYear(String year, String commodityName) {
         this.year = year;
-        this.commodityName = flowType;
+        this.commodityName = commodityName;
     }
 
     public GroupByCommodityYear() {

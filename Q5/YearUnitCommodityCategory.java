@@ -1,4 +1,4 @@
-package advanced.TDE.Q4;
+package advanced.TDE.Q5;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;
@@ -14,7 +14,8 @@ import org.apache.log4j.BasicConfigurator;
 import java.io.IOException;
 import java.util.Objects;
 
-public class CommodityYear {
+
+public class YearUnitCommodityCategory {
 
     public static void main(String args[]) throws IOException,
             ClassNotFoundException,
@@ -33,15 +34,15 @@ public class CommodityYear {
         Job j = new Job(c, "media");
 
         // registro das classes
-        j.setJarByClass(CommodityYear.class);
-        j.setMapperClass(MapForCommodityYear.class);
-        j.setReducerClass(ReduceForCommodityYear.class);
+        j.setJarByClass(YearUnitCommodityCategory.class);
+        j.setMapperClass(MapForYearUnitCommodityCategory.class);
+        j.setReducerClass(ReduceForYearUnitCommodityCategory.class);
 
         // definicao dos tipos de saida
-        j.setOutputKeyClass(GroupByCommodityYear.class);
-        j.setOutputValueClass(CommodityWritable.class);
-        j.setMapOutputKeyClass(GroupByCommodityYear.class);
-        j.setMapOutputValueClass(CommodityWritable.class);
+        j.setOutputKeyClass(GroupByYearUnitCommodityCategory.class);
+        j.setOutputValueClass(YearUnitCommodityCategoryWritable.class);
+        j.setMapOutputKeyClass(GroupByYearUnitCommodityCategory.class);
+        j.setMapOutputValueClass(YearUnitCommodityCategoryWritable.class);
 
         // cadastro dos arquivos de entrada e saida
         FileInputFormat.addInputPath(j, input);
@@ -52,7 +53,7 @@ public class CommodityYear {
     }
 
 
-    public static class MapForCommodityYear extends Mapper<LongWritable, Text, GroupByCommodityYear, CommodityWritable> {
+    public static class MapForYearUnitCommodityCategory extends Mapper<LongWritable, Text, GroupByYearUnitCommodityCategory, YearUnitCommodityCategoryWritable> {
         public void map(LongWritable key, Text value, Context con)
                 throws IOException, InterruptedException {
             String texto = value.toString();
@@ -62,35 +63,41 @@ public class CommodityYear {
             //Quebra a linha em palavras
             String [] linhas = texto.split("\t");
             String [] valores = linhas[0].split(";");
+
             String year = valores[1];
             String commodityName = valores[2];
+            String unitType = valores[7];
+            String category = valores[8];
+            String flow = valores[4];
+            String country = valores[0];
 
             float sum = Float.parseFloat(valores[5]);
 
-            GroupByCommodityYear groupby = new GroupByCommodityYear(year, commodityName);
-            // emitir <"media", (n=1, soma=valor)>
-            CommodityWritable val = new CommodityWritable(1, sum);
+            if ((Objects.equals(country, "Brazil")) && (Objects.equals(flow, "Export"))){
+                GroupByYearUnitCommodityCategory groupby = new GroupByYearUnitCommodityCategory(year, commodityName, unitType, category);
+                // emitir <"media", (n=1, soma=valor)>
+                YearUnitCommodityCategoryWritable val = new YearUnitCommodityCategoryWritable(1, sum);
 
-            // emissao
-            con.write(groupby, val);
+                // emissao
+                con.write(groupby, val);
+            }
         }
     }
 
-
-
-    public static class ReduceForCommodityYear extends Reducer<GroupByCommodityYear, CommodityWritable, GroupByCommodityYear, FloatWritable> {
-        public void reduce(GroupByCommodityYear groupby, Iterable<CommodityWritable> values, Context con)
+    public static class ReduceForYearUnitCommodityCategory extends Reducer<GroupByYearUnitCommodityCategory, YearUnitCommodityCategoryWritable, GroupByYearUnitCommodityCategory, FloatWritable> {
+        public void reduce(GroupByYearUnitCommodityCategory groupby, Iterable<YearUnitCommodityCategoryWritable> values, Context con)
                 throws IOException, InterruptedException {
             float sumVals = 0;
             int sumN = 0;
-            for (CommodityWritable val : values) {
+            for (YearUnitCommodityCategoryWritable val : values) {
                 sumN += val.getN();
-                sumVals += val.getCommodityValue();
+                sumVals += val.getPrice();
             }
             float avg = sumVals/sumN;
-            // faz a saida no formato <palavra, somatorio de ocorrencias>
+            // faz a saida no formato <valor pelo groupBy, media de precos>
             con.write(groupby, new FloatWritable(avg));
         }
     }
 
 }
+
