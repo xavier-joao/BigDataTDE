@@ -68,7 +68,7 @@ public class GroupByYearUnitCommodityCategory implements WritableComparable<Grou
                 "year=" + year + '\n' +
                 "unitType= " + unitType + '\n' +
                 "category= " + category + '\n' +
-                "avarage= ";
+                "average= ";
     }
 }
 
