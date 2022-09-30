@@ -1,0 +1,1608 @@
+GroupByMinMaxAvg{year='1988', unitType='Area in square metres'}	
+Average = 6958579.0
+MaxPrice = 4.03386016E8
+MinPrice = 7.0
+
+
+GroupByMinMaxAvg{year='1988', unitType='Electrical energy in thousands of kilowatt-hours'}	
+Average = 5512366.0
+MaxPrice = 5512366.0
+MinPrice = 5512366.0
+
+
+GroupByMinMaxAvg{year='1988', unitType='Length in metres'}	
+Average = 1996338.6
+MaxPrice = 1.4090989E7
+MinPrice = 2220.0
+
+
+GroupByMinMaxAvg{year='1988', unitType='Number of items'}	
+Average = 1.3709736E7
+MaxPrice = 9.339513E8
+MinPrice = 62.0
+
+
+GroupByMinMaxAvg{year='1988', unitType='Number of pairs'}	
+Average = 2968404.2
+MaxPrice = 2.9145624E7
+MinPrice = 1069.0
+
+
+GroupByMinMaxAvg{year='1988', unitType='Volume in litres'}	
+Average = 8.9033544E7
+MaxPrice = 1.84233001E10
+MinPrice = 6.0
+
+
+GroupByMinMaxAvg{year='1988', unitType='Weight in kilograms'}	
+Average = 1.4803884E7
+MaxPrice = 5.17122E9
+MinPrice = 7.0
+
+
+GroupByMinMaxAvg{year='1989', unitType='Area in square metres'}	
+Average = 5621581.0
+MaxPrice = 3.6737072E8
+MinPrice = 28.0
+
+
+GroupByMinMaxAvg{year='1989', unitType='Length in metres'}	
+Average = 1570690.9
+MaxPrice = 4.9498556E7
+MinPrice = 518.0
+
+
+GroupByMinMaxAvg{year='1989', unitType='Number of items'}	
+Average = 1.4618214E7
+MaxPrice = 4.567786E9
+MinPrice = 8.0
+
+
+GroupByMinMaxAvg{year='1989', unitType='Number of pairs'}	
+Average = 5009716.5
+MaxPrice = 1.30535952E8
+MinPrice = 36.0
+
+
+GroupByMinMaxAvg{year='1989', unitType='Volume in litres'}	
+Average = 2.9038376E7
+MaxPrice = 3.90040576E9
+MinPrice = 3.0
+
+
+GroupByMinMaxAvg{year='1989', unitType='Weight in kilograms'}	
+Average = 1.036489E7
+MaxPrice = 5.4505262E9
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='1990', unitType='Area in square metres'}	
+Average = 4980622.0
+MaxPrice = 3.20431552E8
+MinPrice = 15.0
+
+
+GroupByMinMaxAvg{year='1990', unitType='Length in metres'}	
+Average = 2765201.2
+MaxPrice = 5.9557456E7
+MinPrice = 174.0
+
+
+GroupByMinMaxAvg{year='1990', unitType='Number of items'}	
+Average = 2.9381574E7
+MaxPrice = 8.6003948E9
+MinPrice = 9.0
+
+
+GroupByMinMaxAvg{year='1990', unitType='Number of pairs'}	
+Average = 6225074.5
+MaxPrice = 1.19229448E8
+MinPrice = 130.0
+
+
+GroupByMinMaxAvg{year='1990', unitType='Volume in litres'}	
+Average = 5.4631516E7
+MaxPrice = 1.26704292E10
+MinPrice = 3.0
+
+
+GroupByMinMaxAvg{year='1990', unitType='Weight in kilograms'}	
+Average = 1.0720917E7
+MaxPrice = 4.4807552E9
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='1991', unitType='Area in square metres'}	
+Average = 6124799.0
+MaxPrice = 4.03965632E8
+MinPrice = 81.0
+
+
+GroupByMinMaxAvg{year='1991', unitType='Electrical energy in thousands of kilowatt-hours'}	
+Average = 2515.0
+MaxPrice = 2515.0
+MinPrice = 2515.0
+
+
+GroupByMinMaxAvg{year='1991', unitType='Length in metres'}	
+Average = 1525683.5
+MaxPrice = 3.040774E7
+MinPrice = 63.0
+
+
+GroupByMinMaxAvg{year='1991', unitType='Number of items'}	
+Average = 3.933712E7
+MaxPrice = 2.22307082E10
+MinPrice = 7.0
+
+
+GroupByMinMaxAvg{year='1991', unitType='Number of pairs'}	
+Average = 2362133.2
+MaxPrice = 2.734302E7
+MinPrice = 15.0
+
+
+GroupByMinMaxAvg{year='1991', unitType='Volume in litres'}	
+Average = 2.7469438E7
+MaxPrice = 5.695657E9
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='1991', unitType='Weight in kilograms'}	
+Average = 1.015012E7
+MaxPrice = 9.8229617E9
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='1992', unitType='Area in square metres'}	
+Average = 3619760.2
+MaxPrice = 2.30991216E8
+MinPrice = 33.0
+
+
+GroupByMinMaxAvg{year='1992', unitType='Electrical energy in thousands of kilowatt-hours'}	
+Average = 5.923735E8
+MaxPrice = 5.923735E8
+MinPrice = 5.923735E8
+
+
+GroupByMinMaxAvg{year='1992', unitType='Length in metres'}	
+Average = 9981208.0
+MaxPrice = 5.9728998E8
+MinPrice = 4.0
+
+
+GroupByMinMaxAvg{year='1992', unitType='Number of items'}	
+Average = 2.5003498E7
+MaxPrice = 4.8017536E9
+MinPrice = 2.0
+
+
+GroupByMinMaxAvg{year='1992', unitType='Number of pairs'}	
+Average = 3.1690832E7
+MaxPrice = 8.2939552E8
+MinPrice = 6.0
+
+
+GroupByMinMaxAvg{year='1992', unitType='Volume in litres'}	
+Average = 1.8566794E7
+MaxPrice = 5.543894E9
+MinPrice = 4.0
+
+
+GroupByMinMaxAvg{year='1992', unitType='Weight in carats'}	
+Average = 8.6544552E7
+MaxPrice = 2.63142784E8
+MinPrice = 57850.0
+
+
+GroupByMinMaxAvg{year='1992', unitType='Weight in kilograms'}	
+Average = 7686016.0
+MaxPrice = 4.345727E9
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='1993', unitType='Area in square metres'}	
+Average = 1.0901561E7
+MaxPrice = 5.35701536E8
+MinPrice = 40.0
+
+
+GroupByMinMaxAvg{year='1993', unitType='Electrical energy in thousands of kilowatt-hours'}	
+Average = 1.6497984E8
+MaxPrice = 1.6497984E8
+MinPrice = 1.6497984E8
+
+
+GroupByMinMaxAvg{year='1993', unitType='Length in metres'}	
+Average = 1.5115338E7
+MaxPrice = 3.57125216E8
+MinPrice = 3.0
+
+
+GroupByMinMaxAvg{year='1993', unitType='Number of items'}	
+Average = 2.9663498E7
+MaxPrice = 1.27308759E10
+MinPrice = 6.0
+
+
+GroupByMinMaxAvg{year='1993', unitType='Number of pairs'}	
+Average = 4.57851E7
+MaxPrice = 2.2141929E9
+MinPrice = 201.0
+
+
+GroupByMinMaxAvg{year='1993', unitType='Volume in litres'}	
+Average = 3.610742E7
+MaxPrice = 7.1058304E9
+MinPrice = 3.0
+
+
+GroupByMinMaxAvg{year='1993', unitType='Weight in kilograms'}	
+Average = 7341855.5
+MaxPrice = 5.0346225E9
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='1994', unitType='Area in square metres'}	
+Average = 9559170.0
+MaxPrice = 5.1014304E8
+MinPrice = 99.0
+
+
+GroupByMinMaxAvg{year='1994', unitType='Electrical energy in thousands of kilowatt-hours'}	
+Average = 4122301.2
+MaxPrice = 1.6549948E7
+MinPrice = 588.0
+
+
+GroupByMinMaxAvg{year='1994', unitType='Length in metres'}	
+Average = 2.0824668E7
+MaxPrice = 6.6253037E8
+MinPrice = 464.0
+
+
+GroupByMinMaxAvg{year='1994', unitType='Number of items'}	
+Average = 4.3742044E7
+MaxPrice = 1.80777636E10
+MinPrice = 21.0
+
+
+GroupByMinMaxAvg{year='1994', unitType='Number of pairs'}	
+Average = 6.8067792E7
+MaxPrice = 2.43414426E9
+MinPrice = 34.0
+
+
+GroupByMinMaxAvg{year='1994', unitType='Volume in litres'}	
+Average = 3.5312524E7
+MaxPrice = 2.72332882E10
+MinPrice = 2.0
+
+
+GroupByMinMaxAvg{year='1994', unitType='Weight in kilograms'}	
+Average = 9199040.0
+MaxPrice = 7.5131971E9
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='1995', unitType='Area in square metres'}	
+Average = 1.5876706E7
+MaxPrice = 1.34446438E9
+MinPrice = 5.0
+
+
+GroupByMinMaxAvg{year='1995', unitType='Electrical energy in thousands of kilowatt-hours'}	
+Average = 4.0169256E7
+MaxPrice = 7.1759616E7
+MinPrice = 8578900.0
+
+
+GroupByMinMaxAvg{year='1995', unitType='Length in metres'}	
+Average = 1.5533295E7
+MaxPrice = 6.4714598E8
+MinPrice = 58.0
+
+
+GroupByMinMaxAvg{year='1995', unitType='Number of items'}	
+Average = 2.5954152E7
+MaxPrice = 4.27091302E9
+MinPrice = 9.0
+
+
+GroupByMinMaxAvg{year='1995', unitType='Number of pairs'}	
+Average = 7.0682648E7
+MaxPrice = 2.77083776E9
+MinPrice = 84.0
+
+
+GroupByMinMaxAvg{year='1995', unitType='Volume in litres'}	
+Average = 3.0409946E7
+MaxPrice = 2.96271565E10
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='1995', unitType='Weight in kilograms'}	
+Average = 1.0181178E7
+MaxPrice = 1.20695521E10
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='1996', unitType='Area in square metres'}	
+Average = 8351316.5
+MaxPrice = 5.9447264E8
+MinPrice = 31.0
+
+
+GroupByMinMaxAvg{year='1996', unitType='Electrical energy in thousands of kilowatt-hours'}	
+Average = 2.1208576E7
+MaxPrice = 7.3550496E7
+MinPrice = 1297.0
+
+
+GroupByMinMaxAvg{year='1996', unitType='Length in metres'}	
+Average = 1.493896E7
+MaxPrice = 5.5838477E8
+MinPrice = 13.0
+
+
+GroupByMinMaxAvg{year='1996', unitType='Number of items'}	
+Average = 2.583981E7
+MaxPrice = 5.0990833E9
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='1996', unitType='Number of pairs'}	
+Average = 8.935484E7
+MaxPrice = 3.06498995E9
+MinPrice = 37.0
+
+
+GroupByMinMaxAvg{year='1996', unitType='Volume in litres'}	
+Average = 3.5382308E7
+MaxPrice = 3.30892288E10
+MinPrice = 3.0
+
+
+GroupByMinMaxAvg{year='1996', unitType='Weight in kilograms'}	
+Average = 1.0359104E7
+MaxPrice = 1.263074E10
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='1997', unitType='Area in square metres'}	
+Average = 1.0209911E7
+MaxPrice = 6.0730035E8
+MinPrice = 5.0
+
+
+GroupByMinMaxAvg{year='1997', unitType='Electrical energy in thousands of kilowatt-hours'}	
+Average = 1.3823917E7
+MaxPrice = 1.3823917E7
+MinPrice = 1.3823917E7
+
+
+GroupByMinMaxAvg{year='1997', unitType='Length in metres'}	
+Average = 1.1082923E7
+MaxPrice = 5.8127123E8
+MinPrice = 33.0
+
+
+GroupByMinMaxAvg{year='1997', unitType='Number of items'}	
+Average = 3.1148714E7
+MaxPrice = 2.16896266E10
+MinPrice = 2.0
+
+
+GroupByMinMaxAvg{year='1997', unitType='Number of pairs'}	
+Average = 3.110341E7
+MaxPrice = 2.84627814E9
+MinPrice = 39.0
+
+
+GroupByMinMaxAvg{year='1997', unitType='Volume in litres'}	
+Average = 2.7849722E7
+MaxPrice = 1.55496755E10
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='1997', unitType='Weight in kilograms'}	
+Average = 8903863.0
+MaxPrice = 1.11607808E10
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='1998', unitType='Area in square metres'}	
+Average = 8466646.0
+MaxPrice = 4.34154048E8
+MinPrice = 3.0
+
+
+GroupByMinMaxAvg{year='1998', unitType='Length in metres'}	
+Average = 1.3871237E7
+MaxPrice = 8.9789395E8
+MinPrice = 9.0
+
+
+GroupByMinMaxAvg{year='1998', unitType='Number of items'}	
+Average = 2.605757E7
+MaxPrice = 3.08091187E10
+MinPrice = 2.0
+
+
+GroupByMinMaxAvg{year='1998', unitType='Number of pairs'}	
+Average = 4.640636E7
+MaxPrice = 2.73487155E9
+MinPrice = 26.0
+
+
+GroupByMinMaxAvg{year='1998', unitType='Volume in litres'}	
+Average = 2.5895454E7
+MaxPrice = 8.6945843E9
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='1998', unitType='Weight in kilograms'}	
+Average = 8780786.0
+MaxPrice = 1.17081211E10
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='1999', unitType='Area in square metres'}	
+Average = 1.0845989E7
+MaxPrice = 5.10386592E8
+MinPrice = 6.0
+
+
+GroupByMinMaxAvg{year='1999', unitType='Length in metres'}	
+Average = 1.7623822E7
+MaxPrice = 9.2463104E8
+MinPrice = 27.0
+
+
+GroupByMinMaxAvg{year='1999', unitType='Number of items'}	
+Average = 3.4572064E7
+MaxPrice = 2.80837898E10
+MinPrice = 5.0
+
+
+GroupByMinMaxAvg{year='1999', unitType='Number of pairs'}	
+Average = 5.8947376E7
+MaxPrice = 2.56418534E9
+MinPrice = 5.0
+
+
+GroupByMinMaxAvg{year='1999', unitType='Volume in litres'}	
+Average = 1.573122E7
+MaxPrice = 4.975127E9
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='1999', unitType='Weight in kilograms'}	
+Average = 8025138.5
+MaxPrice = 1.32395182E10
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2000', unitType='Area in square metres'}	
+Average = 6214341.5
+MaxPrice = 8.666697E8
+MinPrice = 3.0
+
+
+GroupByMinMaxAvg{year='2000', unitType='Electrical energy in thousands of kilowatt-hours'}	
+Average = 1.60957376E8
+MaxPrice = 6.5640243E8
+MinPrice = 1660.0
+
+
+GroupByMinMaxAvg{year='2000', unitType='Length in metres'}	
+Average = 9139490.0
+MaxPrice = 3.22844512E8
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2000', unitType='Number of items'}	
+Average = 1.795542E7
+MaxPrice = 2.10011238E10
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2000', unitType='Number of packages'}	
+Average = 8383194.0
+MaxPrice = 1.2698024E7
+MinPrice = 436.0
+
+
+GroupByMinMaxAvg{year='2000', unitType='Number of pairs'}	
+Average = 2.2820196E7
+MaxPrice = 2.44650573E9
+MinPrice = 10.0
+
+
+GroupByMinMaxAvg{year='2000', unitType='Thousands of items'}	
+Average = 3640217.5
+MaxPrice = 2.7582184E7
+MinPrice = 1561.0
+
+
+GroupByMinMaxAvg{year='2000', unitType='Volume in cubic meters'}	
+Average = 3.6955164E7
+MaxPrice = 1.68406874E9
+MinPrice = 26.0
+
+
+GroupByMinMaxAvg{year='2000', unitType='Volume in litres'}	
+Average = 1.5149739E7
+MaxPrice = 3.20428595E9
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2000', unitType='Weight in carats'}	
+Average = 1.84345696E8
+MaxPrice = 1.00940544E10
+MinPrice = 8.0
+
+
+GroupByMinMaxAvg{year='2000', unitType='Weight in kilograms'}	
+Average = 1.188701E7
+MaxPrice = 9.8728829E10
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2001', unitType='Area in square metres'}	
+Average = 5119900.5
+MaxPrice = 5.3724256E8
+MinPrice = 17.0
+
+
+GroupByMinMaxAvg{year='2001', unitType='Electrical energy in thousands of kilowatt-hours'}	
+Average = 1.53843328E8
+MaxPrice = 6.555495E8
+MinPrice = 7193.0
+
+
+GroupByMinMaxAvg{year='2001', unitType='Length in metres'}	
+Average = 6376622.0
+MaxPrice = 2.08596736E8
+MinPrice = 4.0
+
+
+GroupByMinMaxAvg{year='2001', unitType='Number of items'}	
+Average = 1.6905768E7
+MaxPrice = 1.34575145E10
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2001', unitType='Number of packages'}	
+Average = 4632104.0
+MaxPrice = 1.421579E7
+MinPrice = 6987.0
+
+
+GroupByMinMaxAvg{year='2001', unitType='Number of pairs'}	
+Average = 2.8743894E7
+MaxPrice = 2.75327411E9
+MinPrice = 2.0
+
+
+GroupByMinMaxAvg{year='2001', unitType='Thousands of items'}	
+Average = 3407561.2
+MaxPrice = 1.7105082E7
+MinPrice = 1424.0
+
+
+GroupByMinMaxAvg{year='2001', unitType='Volume in cubic meters'}	
+Average = 1.9895954E7
+MaxPrice = 4.0936512E8
+MinPrice = 109.0
+
+
+GroupByMinMaxAvg{year='2001', unitType='Volume in litres'}	
+Average = 1.3549752E7
+MaxPrice = 1.9009161E9
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2001', unitType='Weight in carats'}	
+Average = 1.81081104E8
+MaxPrice = 5.6182221E9
+MinPrice = 11.0
+
+
+GroupByMinMaxAvg{year='2001', unitType='Weight in kilograms'}	
+Average = 9020521.0
+MaxPrice = 1.03915366E10
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2002', unitType='Area in square metres'}	
+Average = 7911580.5
+MaxPrice = 2.09496589E9
+MinPrice = 5.0
+
+
+GroupByMinMaxAvg{year='2002', unitType='Electrical energy in thousands of kilowatt-hours'}	
+Average = 3.07435808E8
+MaxPrice = 1.77411366E9
+MinPrice = 41605.0
+
+
+GroupByMinMaxAvg{year='2002', unitType='Length in metres'}	
+Average = 9731197.0
+MaxPrice = 4.06510784E8
+MinPrice = 44.0
+
+
+GroupByMinMaxAvg{year='2002', unitType='Number of items'}	
+Average = 1.6623751E7
+MaxPrice = 1.25820211E10
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2002', unitType='Number of packages'}	
+Average = 6604406.5
+MaxPrice = 1.3208263E7
+MinPrice = 550.0
+
+
+GroupByMinMaxAvg{year='2002', unitType='Number of pairs'}	
+Average = 1.6838382E7
+MaxPrice = 2.47278029E9
+MinPrice = 9.0
+
+
+GroupByMinMaxAvg{year='2002', unitType='Thousands of items'}	
+Average = 3659462.8
+MaxPrice = 1.2980224E7
+MinPrice = 1932.0
+
+
+GroupByMinMaxAvg{year='2002', unitType='Volume in cubic meters'}	
+Average = 3.1563338E7
+MaxPrice = 1.17404237E9
+MinPrice = 53.0
+
+
+GroupByMinMaxAvg{year='2002', unitType='Volume in litres'}	
+Average = 1.7592276E7
+MaxPrice = 3.51888486E9
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2002', unitType='Weight in carats'}	
+Average = 1.42813344E8
+MaxPrice = 1.00404541E10
+MinPrice = 70.0
+
+
+GroupByMinMaxAvg{year='2002', unitType='Weight in kilograms'}	
+Average = 1.0663656E7
+MaxPrice = 2.49770496E10
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2003', unitType='Area in square metres'}	
+Average = 6213074.5
+MaxPrice = 6.2262374E8
+MinPrice = 5.0
+
+
+GroupByMinMaxAvg{year='2003', unitType='Electrical energy in thousands of kilowatt-hours'}	
+Average = 2.30698752E8
+MaxPrice = 1.3230455E9
+MinPrice = 7981734.0
+
+
+GroupByMinMaxAvg{year='2003', unitType='Length in metres'}	
+Average = 5356136.0
+MaxPrice = 3.51705824E8
+MinPrice = 39.0
+
+
+GroupByMinMaxAvg{year='2003', unitType='Number of items'}	
+Average = 1.8129812E7
+MaxPrice = 1.34946847E10
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2003', unitType='Number of packages'}	
+Average = 6557848.5
+MaxPrice = 1.3074653E7
+MinPrice = 3059.0
+
+
+GroupByMinMaxAvg{year='2003', unitType='Number of pairs'}	
+Average = 2.8801842E7
+MaxPrice = 3.20132685E9
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2003', unitType='Thousands of items'}	
+Average = 2552710.8
+MaxPrice = 1.5946696E7
+MinPrice = 636.0
+
+
+GroupByMinMaxAvg{year='2003', unitType='Volume in cubic meters'}	
+Average = 6.9071E7
+MaxPrice = 6.0462336E9
+MinPrice = 17.0
+
+
+GroupByMinMaxAvg{year='2003', unitType='Volume in litres'}	
+Average = 1.8317174E7
+MaxPrice = 4.22059085E9
+MinPrice = 3.0
+
+
+GroupByMinMaxAvg{year='2003', unitType='Weight in carats'}	
+Average = 1.5559192E8
+MaxPrice = 8.6114703E9
+MinPrice = 11.0
+
+
+GroupByMinMaxAvg{year='2003', unitType='Weight in kilograms'}	
+Average = 1.3296532E7
+MaxPrice = 3.40086047E10
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2004', unitType='Area in square metres'}	
+Average = 9265943.0
+MaxPrice = 3.00982579E9
+MinPrice = 5.0
+
+
+GroupByMinMaxAvg{year='2004', unitType='Electrical energy in thousands of kilowatt-hours'}	
+Average = 3.1372816E8
+MaxPrice = 2.55454285E9
+MinPrice = 4654835.0
+
+
+GroupByMinMaxAvg{year='2004', unitType='Length in metres'}	
+Average = 8447627.0
+MaxPrice = 2.91372896E8
+MinPrice = 32.0
+
+
+GroupByMinMaxAvg{year='2004', unitType='Number of items'}	
+Average = 2.5256354E7
+MaxPrice = 2.07430226E10
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2004', unitType='Number of packages'}	
+Average = 436233.5
+MaxPrice = 815330.0
+MinPrice = 57137.0
+
+
+GroupByMinMaxAvg{year='2004', unitType='Number of pairs'}	
+Average = 2.3222886E7
+MaxPrice = 3.48242637E9
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2004', unitType='Thousands of items'}	
+Average = 3116520.5
+MaxPrice = 2.1448206E7
+MinPrice = 1541.0
+
+
+GroupByMinMaxAvg{year='2004', unitType='Volume in cubic meters'}	
+Average = 4.2774728E7
+MaxPrice = 2.77063373E9
+MinPrice = 10.0
+
+
+GroupByMinMaxAvg{year='2004', unitType='Volume in litres'}	
+Average = 1.3336132E7
+MaxPrice = 2.58487398E9
+MinPrice = 2.0
+
+
+GroupByMinMaxAvg{year='2004', unitType='Weight in carats'}	
+Average = 1.39093232E8
+MaxPrice = 1.11201321E10
+MinPrice = 26.0
+
+
+GroupByMinMaxAvg{year='2004', unitType='Weight in kilograms'}	
+Average = 1.3766878E7
+MaxPrice = 3.7070168E10
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2005', unitType='Area in square metres'}	
+Average = 8168024.5
+MaxPrice = 2.66081766E9
+MinPrice = 5.0
+
+
+GroupByMinMaxAvg{year='2005', unitType='Electrical energy in thousands of kilowatt-hours'}	
+Average = 5.33058752E8
+MaxPrice = 3.98326118E9
+MinPrice = 76645.0
+
+
+GroupByMinMaxAvg{year='2005', unitType='Length in metres'}	
+Average = 5895053.5
+MaxPrice = 4.0779904E8
+MinPrice = 17.0
+
+
+GroupByMinMaxAvg{year='2005', unitType='Number of items'}	
+Average = 2.4369302E7
+MaxPrice = 3.1772203E10
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2005', unitType='Number of packages'}	
+Average = 6903284.0
+MaxPrice = 2.011314E7
+MinPrice = 2102.0
+
+
+GroupByMinMaxAvg{year='2005', unitType='Number of pairs'}	
+Average = 2.210796E7
+MaxPrice = 1.66357069E9
+MinPrice = 7.0
+
+
+GroupByMinMaxAvg{year='2005', unitType='Thousands of items'}	
+Average = 5645228.5
+MaxPrice = 2.1338872E7
+MinPrice = 1480.0
+
+
+GroupByMinMaxAvg{year='2005', unitType='Volume in cubic meters'}	
+Average = 2.161362E7
+MaxPrice = 7.402064E8
+MinPrice = 6.0
+
+
+GroupByMinMaxAvg{year='2005', unitType='Volume in litres'}	
+Average = 1.8352562E7
+MaxPrice = 2.98174669E9
+MinPrice = 3.0
+
+
+GroupByMinMaxAvg{year='2005', unitType='Weight in carats'}	
+Average = 2.82836224E8
+MaxPrice = 1.29065083E10
+MinPrice = 16.0
+
+
+GroupByMinMaxAvg{year='2005', unitType='Weight in kilograms'}	
+Average = 1.623436E7
+MaxPrice = 4.52813E10
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2006', unitType='Area in square metres'}	
+Average = 6720700.0
+MaxPrice = 8.7816115E8
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2006', unitType='Electrical energy in thousands of kilowatt-hours'}	
+Average = 3.37889984E8
+MaxPrice = 2.11263974E9
+MinPrice = 195.0
+
+
+GroupByMinMaxAvg{year='2006', unitType='Length in metres'}	
+Average = 5342108.0
+MaxPrice = 2.19740208E8
+MinPrice = 11.0
+
+
+GroupByMinMaxAvg{year='2006', unitType='Number of items'}	
+Average = 2.3047542E7
+MaxPrice = 1.7318486E10
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2006', unitType='Number of packages'}	
+Average = 6278614.0
+MaxPrice = 1.8967942E7
+MinPrice = 1268.0
+
+
+GroupByMinMaxAvg{year='2006', unitType='Number of pairs'}	
+Average = 3.0527252E7
+MaxPrice = 5.6428385E9
+MinPrice = 6.0
+
+
+GroupByMinMaxAvg{year='2006', unitType='Thousands of items'}	
+Average = 6971520.5
+MaxPrice = 2.718864E7
+MinPrice = 58.0
+
+
+GroupByMinMaxAvg{year='2006', unitType='Volume in cubic meters'}	
+Average = 4.5079108E7
+MaxPrice = 7.7406925E9
+MinPrice = 8.0
+
+
+GroupByMinMaxAvg{year='2006', unitType='Volume in litres'}	
+Average = 2.8003426E7
+MaxPrice = 3.30122086E9
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2006', unitType='Weight in carats'}	
+Average = 2.47495344E8
+MaxPrice = 9.9876536E9
+MinPrice = 17.0
+
+
+GroupByMinMaxAvg{year='2006', unitType='Weight in kilograms'}	
+Average = 2.2892708E7
+MaxPrice = 2.62924354E11
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2007', unitType='Area in square metres'}	
+Average = 1.0684379E7
+MaxPrice = 3.27783117E9
+MinPrice = 2.0
+
+
+GroupByMinMaxAvg{year='2007', unitType='Electrical energy in thousands of kilowatt-hours'}	
+Average = 5.5615917E8
+MaxPrice = 5.6008842E9
+MinPrice = 144.0
+
+
+GroupByMinMaxAvg{year='2007', unitType='Length in metres'}	
+Average = 4890425.0
+MaxPrice = 2.37596256E8
+MinPrice = 7.0
+
+
+GroupByMinMaxAvg{year='2007', unitType='Number of items'}	
+Average = 2.550607E7
+MaxPrice = 1.92298476E10
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2007', unitType='Number of packages'}	
+Average = 5249327.5
+MaxPrice = 7.9938664E7
+MinPrice = 13.0
+
+
+GroupByMinMaxAvg{year='2007', unitType='Number of pairs'}	
+Average = 2.5033586E7
+MaxPrice = 6.3139405E9
+MinPrice = 5.0
+
+
+GroupByMinMaxAvg{year='2007', unitType='Thousands of items'}	
+Average = 5738936.5
+MaxPrice = 3.8903E7
+MinPrice = 846.0
+
+
+GroupByMinMaxAvg{year='2007', unitType='Volume in cubic meters'}	
+Average = 2.8906844E7
+MaxPrice = 1.89417114E9
+MinPrice = 29.0
+
+
+GroupByMinMaxAvg{year='2007', unitType='Volume in litres'}	
+Average = 3.310144E7
+MaxPrice = 3.85663667E9
+MinPrice = 2.0
+
+
+GroupByMinMaxAvg{year='2007', unitType='Weight in carats'}	
+Average = 1.13683984E8
+MaxPrice = 7.4312392E9
+MinPrice = 5.0
+
+
+GroupByMinMaxAvg{year='2007', unitType='Weight in kilograms'}	
+Average = 2.5973674E7
+MaxPrice = 2.90899689E11
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2008', unitType='Area in square metres'}	
+Average = 8935352.0
+MaxPrice = 1.38935014E9
+MinPrice = 9.0
+
+
+GroupByMinMaxAvg{year='2008', unitType='Electrical energy in thousands of kilowatt-hours'}	
+Average = 2.47391136E8
+MaxPrice = 1.32794701E9
+MinPrice = 9395.0
+
+
+GroupByMinMaxAvg{year='2008', unitType='Length in metres'}	
+Average = 3453671.0
+MaxPrice = 1.43606352E8
+MinPrice = 25.0
+
+
+GroupByMinMaxAvg{year='2008', unitType='Number of items'}	
+Average = 3.7837264E7
+MaxPrice = 2.54844785E10
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2008', unitType='Number of packages'}	
+Average = 7533038.0
+MaxPrice = 5.5572752E7
+MinPrice = 305.0
+
+
+GroupByMinMaxAvg{year='2008', unitType='Number of pairs'}	
+Average = 3.9991692E7
+MaxPrice = 8.2319145E9
+MinPrice = 23.0
+
+
+GroupByMinMaxAvg{year='2008', unitType='Thousands of items'}	
+Average = 2237544.0
+MaxPrice = 3.33551E7
+MinPrice = 291.0
+
+
+GroupByMinMaxAvg{year='2008', unitType='Volume in cubic meters'}	
+Average = 2.53418E7
+MaxPrice = 2.40676326E9
+MinPrice = 6.0
+
+
+GroupByMinMaxAvg{year='2008', unitType='Volume in litres'}	
+Average = 3.8542108E7
+MaxPrice = 3.82986931E9
+MinPrice = 2.0
+
+
+GroupByMinMaxAvg{year='2008', unitType='Weight in carats'}	
+Average = 8.4075336E7
+MaxPrice = 7.8908247E9
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2008', unitType='Weight in kilograms'}	
+Average = 2.944789E7
+MaxPrice = 1.55473625E11
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2009', unitType='Area in square metres'}	
+Average = 7404913.5
+MaxPrice = 6.8264755E8
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2009', unitType='Electrical energy in thousands of kilowatt-hours'}	
+Average = 5.07144192E8
+MaxPrice = 4.9087544E9
+MinPrice = 65.0
+
+
+GroupByMinMaxAvg{year='2009', unitType='Length in metres'}	
+Average = 3991475.2
+MaxPrice = 2.13328032E8
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2009', unitType='Number of items'}	
+Average = 2.960454E7
+MaxPrice = 2.39764398E10
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2009', unitType='Number of packages'}	
+Average = 3230661.5
+MaxPrice = 2.686668E7
+MinPrice = 931.0
+
+
+GroupByMinMaxAvg{year='2009', unitType='Number of pairs'}	
+Average = 2.612376E7
+MaxPrice = 5.9157985E9
+MinPrice = 6.0
+
+
+GroupByMinMaxAvg{year='2009', unitType='Thousands of items'}	
+Average = 4377061.5
+MaxPrice = 2.6547252E7
+MinPrice = 225.0
+
+
+GroupByMinMaxAvg{year='2009', unitType='Volume in cubic meters'}	
+Average = 2.8108968E7
+MaxPrice = 3.30830182E9
+MinPrice = 13.0
+
+
+GroupByMinMaxAvg{year='2009', unitType='Volume in litres'}	
+Average = 3.3815028E7
+MaxPrice = 4.90093E9
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2009', unitType='Weight in carats'}	
+Average = 3.18389696E8
+MaxPrice = 9.7318328E9
+MinPrice = 25.0
+
+
+GroupByMinMaxAvg{year='2009', unitType='Weight in kilograms'}	
+Average = 2.4888748E7
+MaxPrice = 8.9255584E10
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2010', unitType='Area in square metres'}	
+Average = 9349179.0
+MaxPrice = 1.99821018E9
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2010', unitType='Electrical energy in thousands of kilowatt-hours'}	
+Average = 3.92691072E8
+MaxPrice = 2.6572649E9
+MinPrice = 41.0
+
+
+GroupByMinMaxAvg{year='2010', unitType='Length in metres'}	
+Average = 2360966.2
+MaxPrice = 1.56735744E8
+MinPrice = 40.0
+
+
+GroupByMinMaxAvg{year='2010', unitType='Number of items'}	
+Average = 2.3065026E7
+MaxPrice = 1.80136858E10
+MinPrice = 2.0
+
+
+GroupByMinMaxAvg{year='2010', unitType='Number of packages'}	
+Average = 3887001.2
+MaxPrice = 5.7550616E7
+MinPrice = 61.0
+
+
+GroupByMinMaxAvg{year='2010', unitType='Number of pairs'}	
+Average = 3.3584548E7
+MaxPrice = 4.9595924E9
+MinPrice = 5.0
+
+
+GroupByMinMaxAvg{year='2010', unitType='Thousands of items'}	
+Average = 3290006.8
+MaxPrice = 3.057896E7
+MinPrice = 361.0
+
+
+GroupByMinMaxAvg{year='2010', unitType='Volume in cubic meters'}	
+Average = 4.6924788E7
+MaxPrice = 4.03794022E9
+MinPrice = 25.0
+
+
+GroupByMinMaxAvg{year='2010', unitType='Volume in litres'}	
+Average = 3.253992E7
+MaxPrice = 6.7131761E9
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2010', unitType='Weight in carats'}	
+Average = 3.40695008E8
+MaxPrice = 1.87138417E10
+MinPrice = 4.0
+
+
+GroupByMinMaxAvg{year='2010', unitType='Weight in kilograms'}	
+Average = 2.8819154E7
+MaxPrice = 1.05814262E11
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2011', unitType='Area in square metres'}	
+Average = 9842084.0
+MaxPrice = 2.59726182E9
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2011', unitType='Electrical energy in thousands of kilowatt-hours'}	
+Average = 4.19370528E8
+MaxPrice = 3.98233856E9
+MinPrice = 2212.0
+
+
+GroupByMinMaxAvg{year='2011', unitType='Length in metres'}	
+Average = 1290705.4
+MaxPrice = 5.8172372E7
+MinPrice = 10.0
+
+
+GroupByMinMaxAvg{year='2011', unitType='Number of items'}	
+Average = 3.0110486E7
+MaxPrice = 2.59683144E10
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2011', unitType='Number of packages'}	
+Average = 3424283.8
+MaxPrice = 4.9141032E7
+MinPrice = 1198.0
+
+
+GroupByMinMaxAvg{year='2011', unitType='Number of pairs'}	
+Average = 6.2448316E7
+MaxPrice = 1.4285098E10
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2011', unitType='Thousands of items'}	
+Average = 4929787.5
+MaxPrice = 6.1843928E7
+MinPrice = 418.0
+
+
+GroupByMinMaxAvg{year='2011', unitType='Volume in cubic meters'}	
+Average = 6.158404E7
+MaxPrice = 5.2236467E9
+MinPrice = 262.0
+
+
+GroupByMinMaxAvg{year='2011', unitType='Volume in litres'}	
+Average = 2.539148E7
+MaxPrice = 2.02212352E9
+MinPrice = 2.0
+
+
+GroupByMinMaxAvg{year='2011', unitType='Weight in carats'}	
+Average = 2.87244288E8
+MaxPrice = 1.99779082E10
+MinPrice = 42.0
+
+
+GroupByMinMaxAvg{year='2011', unitType='Weight in kilograms'}	
+Average = 3.7857136E7
+MaxPrice = 8.2986099E10
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2012', unitType='Area in square metres'}	
+Average = 7865512.0
+MaxPrice = 8.5366963E8
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2012', unitType='Electrical energy in thousands of kilowatt-hours'}	
+Average = 5.719527E8
+MaxPrice = 3.36323891E9
+MinPrice = 324.0
+
+
+GroupByMinMaxAvg{year='2012', unitType='Length in metres'}	
+Average = 1130254.2
+MaxPrice = 2.4033728E7
+MinPrice = 10.0
+
+
+GroupByMinMaxAvg{year='2012', unitType='Number of items'}	
+Average = 3.0640264E7
+MaxPrice = 2.7920681E10
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2012', unitType='Number of packages'}	
+Average = 508762.38
+MaxPrice = 4815721.0
+MinPrice = 737.0
+
+
+GroupByMinMaxAvg{year='2012', unitType='Number of pairs'}	
+Average = 5.3642652E7
+MaxPrice = 1.44343224E10
+MinPrice = 17.0
+
+
+GroupByMinMaxAvg{year='2012', unitType='Thousands of items'}	
+Average = 6084501.5
+MaxPrice = 4.8559836E7
+MinPrice = 522.0
+
+
+GroupByMinMaxAvg{year='2012', unitType='Volume in cubic meters'}	
+Average = 8.3393472E7
+MaxPrice = 4.3478333E9
+MinPrice = 2.0
+
+
+GroupByMinMaxAvg{year='2012', unitType='Volume in litres'}	
+Average = 3.0940076E7
+MaxPrice = 3.13826227E9
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2012', unitType='Weight in carats'}	
+Average = 5.28919648E8
+MaxPrice = 1.45392353E10
+MinPrice = 10.0
+
+
+GroupByMinMaxAvg{year='2012', unitType='Weight in kilograms'}	
+Average = 3.7790388E7
+MaxPrice = 2.20793848E11
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2013', unitType='Area in square metres'}	
+Average = 1.0891956E7
+MaxPrice = 3.46587238E9
+MinPrice = 7.0
+
+
+GroupByMinMaxAvg{year='2013', unitType='Electrical energy in thousands of kilowatt-hours'}	
+Average = 1.0692937E9
+MaxPrice = 4.989035E9
+MinPrice = 79.0
+
+
+GroupByMinMaxAvg{year='2013', unitType='Length in metres'}	
+Average = 789348.44
+MaxPrice = 2.6620892E7
+MinPrice = 20.0
+
+
+GroupByMinMaxAvg{year='2013', unitType='Number of items'}	
+Average = 3.8882792E7
+MaxPrice = 2.00105533E10
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2013', unitType='Number of packages'}	
+Average = 1.5413294E7
+MaxPrice = 6.5943312E7
+MinPrice = 175.0
+
+
+GroupByMinMaxAvg{year='2013', unitType='Number of pairs'}	
+Average = 3.5240376E7
+MaxPrice = 3.08735898E9
+MinPrice = 15.0
+
+
+GroupByMinMaxAvg{year='2013', unitType='Thousands of items'}	
+Average = 6276465.0
+MaxPrice = 5.5350896E7
+MinPrice = 294.0
+
+
+GroupByMinMaxAvg{year='2013', unitType='Volume in cubic meters'}	
+Average = 3.1437908E7
+MaxPrice = 1.35134067E9
+MinPrice = 3.0
+
+
+GroupByMinMaxAvg{year='2013', unitType='Volume in litres'}	
+Average = 5.1573712E7
+MaxPrice = 8.9218048E9
+MinPrice = 2.0
+
+
+GroupByMinMaxAvg{year='2013', unitType='Weight in carats'}	
+Average = 9.7181664E7
+MaxPrice = 1.15606374E9
+MinPrice = 487.0
+
+
+GroupByMinMaxAvg{year='2013', unitType='Weight in kilograms'}	
+Average = 4.0566412E7
+MaxPrice = 4.0145997E11
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2014', unitType='Area in square metres'}	
+Average = 1.58562E7
+MaxPrice = 4.17236531E9
+MinPrice = 3.0
+
+
+GroupByMinMaxAvg{year='2014', unitType='Electrical energy in thousands of kilowatt-hours'}	
+Average = 7.8690918E8
+MaxPrice = 4.5878968E9
+MinPrice = 2675.0
+
+
+GroupByMinMaxAvg{year='2014', unitType='Length in metres'}	
+Average = 546566.4
+MaxPrice = 1.8030312E7
+MinPrice = 15.0
+
+
+GroupByMinMaxAvg{year='2014', unitType='Number of items'}	
+Average = 3.302276E7
+MaxPrice = 2.51083325E10
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2014', unitType='Number of packages'}	
+Average = 2869806.0
+MaxPrice = 2.206284E7
+MinPrice = 9735.0
+
+
+GroupByMinMaxAvg{year='2014', unitType='Number of pairs'}	
+Average = 4.3334252E7
+MaxPrice = 3.17140378E9
+MinPrice = 3.0
+
+
+GroupByMinMaxAvg{year='2014', unitType='Thousands of items'}	
+Average = 3547609.5
+MaxPrice = 3.098317E7
+MinPrice = 4932.0
+
+
+GroupByMinMaxAvg{year='2014', unitType='Volume in cubic meters'}	
+Average = 6.0888276E7
+MaxPrice = 3.82956442E9
+MinPrice = 66.0
+
+
+GroupByMinMaxAvg{year='2014', unitType='Volume in litres'}	
+Average = 5.0070312E7
+MaxPrice = 8.8443146E9
+MinPrice = 2.0
+
+
+GroupByMinMaxAvg{year='2014', unitType='Weight in carats'}	
+Average = 965007.9
+MaxPrice = 8219261.0
+MinPrice = 57.0
+
+
+GroupByMinMaxAvg{year='2014', unitType='Weight in kilograms'}	
+Average = 4.1930108E7
+MaxPrice = 3.59475937E11
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2015', unitType='Area in square metres'}	
+Average = 1.1648023E7
+MaxPrice = 2.9325504E9
+MinPrice = 4.0
+
+
+GroupByMinMaxAvg{year='2015', unitType='Electrical energy in thousands of kilowatt-hours'}	
+Average = 5.0470384E8
+MaxPrice = 3.00053709E9
+MinPrice = 400.0
+
+
+GroupByMinMaxAvg{year='2015', unitType='Length in metres'}	
+Average = 165032.92
+MaxPrice = 4749730.0
+MinPrice = 13.0
+
+
+GroupByMinMaxAvg{year='2015', unitType='Number of items'}	
+Average = 4.3874308E7
+MaxPrice = 5.1193479E10
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2015', unitType='Number of packages'}	
+Average = 6386481.5
+MaxPrice = 9.01228E7
+MinPrice = 194.0
+
+
+GroupByMinMaxAvg{year='2015', unitType='Number of pairs'}	
+Average = 5.5806368E7
+MaxPrice = 1.96004618E10
+MinPrice = 3.0
+
+
+GroupByMinMaxAvg{year='2015', unitType='Thousands of items'}	
+Average = 8407492.0
+MaxPrice = 7.7480384E7
+MinPrice = 233.0
+
+
+GroupByMinMaxAvg{year='2015', unitType='Volume in cubic meters'}	
+Average = 6.0573876E7
+MaxPrice = 6.648277E9
+MinPrice = 6.0
+
+
+GroupByMinMaxAvg{year='2015', unitType='Volume in litres'}	
+Average = 4.0259552E7
+MaxPrice = 5.5468431E9
+MinPrice = 6.0
+
+
+GroupByMinMaxAvg{year='2015', unitType='Weight in carats'}	
+Average = 2155988.2
+MaxPrice = 9390721.0
+MinPrice = 28924.0
+
+
+GroupByMinMaxAvg{year='2015', unitType='Weight in kilograms'}	
+Average = 3.0091334E7
+MaxPrice = 7.4804953E10
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2016', unitType='Area in square metres'}	
+Average = 1.0439952E7
+MaxPrice = 3.71995904E9
+MinPrice = 3.0
+
+
+GroupByMinMaxAvg{year='2016', unitType='Electrical energy in thousands of kilowatt-hours'}	
+Average = 1.7653584E8
+MaxPrice = 1.06528269E9
+MinPrice = 1128262.0
+
+
+GroupByMinMaxAvg{year='2016', unitType='Length in metres'}	
+Average = 156330.33
+MaxPrice = 2761956.0
+MinPrice = 8.0
+
+
+GroupByMinMaxAvg{year='2016', unitType='Number of items'}	
+Average = 3.5814304E7
+MaxPrice = 3.5444478E10
+MinPrice = 1.0
+
+
+GroupByMinMaxAvg{year='2016', unitType='Number of packages'}	
+Average = 6164742.5
+MaxPrice = 1.15285576E8
+MinPrice = 11.0
+
+
+GroupByMinMaxAvg{year='2016', unitType='Number of pairs'}	
+Average = 3.5886724E7
+MaxPrice = 2.32484454E9
+MinPrice = 11.0
+
+
+GroupByMinMaxAvg{year='2016', unitType='Thousands of items'}	
+Average = 9433816.0
+MaxPrice = 1.20570624E8
+MinPrice = 1500.0
+
+
+GroupByMinMaxAvg{year='2016', unitType='Volume in cubic meters'}	
+Average = 6.524364E7
+MaxPrice = 4.05265306E9
+MinPrice = 203.0
+
+
+GroupByMinMaxAvg{year='2016', unitType='Volume in litres'}	
+Average = 2.9065824E7
+MaxPrice = 1.54719194E9
+MinPrice = 8.0
+
+
+GroupByMinMaxAvg{year='2016', unitType='Weight in carats'}	
+Average = 4496361.0
+MaxPrice = 9557468.0
+MinPrice = 116633.0
+
+
+GroupByMinMaxAvg{year='2016', unitType='Weight in kilograms'}	
+Average = 2.7960336E7
+MaxPrice = 5.6865612E10
+MinPrice = 1.0
+
+
